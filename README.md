@@ -8,7 +8,7 @@
 
 <div height="160em">
   <img height="100%" width="42%" alt="marcelo github stats" src="https://github-readme-stats.vercel.app/api?username=marcelo-souto&count_private=true&show_icons=true&theme=dark" />
-  <img height="100%" width="50%" alt="marcelo most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-souto&layout=compact&theme=dark" />
+  <img height="100%" width="42%" alt="marcelo most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-souto&layout=compact&theme=dark" />
 </div>
 
 <br>
