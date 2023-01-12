@@ -1,7 +1,7 @@
 ### Olá sou Marcelo Souto
 
 - 🔭 Hoje estou trabalhando com desenvolvimento Web Front End
-- 🌱 Estou estudando atualmente React e Banco de Daddos
+- 🌱 Estou estudando atualmente React e Banco de Dados
 - 📫 Entre em contato comigo através do email marcelosouto.dev@gmail.com
 
 <br>
