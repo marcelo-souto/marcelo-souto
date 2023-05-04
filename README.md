@@ -1,7 +1,7 @@
 ### Olá sou Marcelo Souto
 
 - 🔭 Hoje estou trabalhando com desenvolvimento Web Full Stack
-- 🌱 Estou estudando atualmente React e NodeJs
+- 🌱 Estou estudando atualmente Redux e NodeJs
 - 📫 Entre em contato comigo através do email marcelosouto.dev@gmail.com
 
 <br>
