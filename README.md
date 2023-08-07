@@ -1,7 +1,7 @@
 ### Olá sou Marcelo Souto
 
 - 🔭 Hoje estou trabalhando com desenvolvimento Web Full Stack
-- 🌱 Estou estudando atualmente NodeJS e Typescript
+- 🌱 Estou estudando atualmente NodeJS, Typescript e NextJS
 - 📫 Entre em contato comigo através do email marcelosouto.dev@gmail.com
 
 <br>
